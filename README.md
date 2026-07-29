@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Junior Data Analyst specializing in Python, data visualization, and interactive dashboards. I focus on finding patterns in data, analyzing key metrics, and extracting actionable insights for business decisions.
+I am a Aspiring Data Analyst specializing in Python, data visualization, and interactive dashboards. I focus on finding patterns in data, analyzing key metrics, and extracting actionable insights for business decisions.
 
 ## Currently Learning
 - A/B Testing Fundamentals
