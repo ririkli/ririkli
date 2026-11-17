@@ -5,13 +5,12 @@ I am a Aspiring Data Analyst specializing in Python, data visualization, and int
 ## Currently Learning
 - A/B Testing Fundamentals
 - Machine Learning (Scikit-learn)
-- Advanced SQL
 - R Programming
 
 ## Skills
 - Python, Pandas, NumPy
 - Plotly, Matplotlib, Dash
-- SQL (PostgreSQL)
+- Advanced SQL (PostgreSQL)
 - Probability Theory & Mathematical Statistics
 - Yandex DataLens, Power BI
 
